@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nadim Shaikh</h1>
-<h3 align="center">Unity Game developer || 2D artist || 3D artist</h3>
+<h3 align="center">Unity Game developer || 2D artist || 3D artist </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadim0330&label=Profile%20views&color=0e75b6&style=flat" alt="nadim0330" /> </p>
 
-- 🌱 I’m currently learning **Unity || C# || C++ programming ||Blender**
+- 🌱 I’m currently learning **Unity || C# || C++ programming || Blender || Python**
 
 - 💬 Ask me about **Game Design, Games, Art**
 
