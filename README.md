@@ -25,7 +25,7 @@
   <hr  width="50%"/>
 </div>
 <div>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachi-jamdade&show_icons=true&locale=en&layout=compact&theme=radical" alt="prachi-jamdade" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadim0330&show_icons=true&locale=en&layout=compact&theme=radical" alt="Nadim-Shaikh" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nadim0330&show_icons=true&locale=en&theme=radical" alt="nadim0330" />
 </div>
