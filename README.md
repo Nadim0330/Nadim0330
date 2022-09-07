@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadim Shaikh</h1>
-<h3 align="center">Unity Game developer || 2D artist || 3D artist </h3>
+<h3 align="center">Unity Game developer || Game designer || 2D artist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadim0330&label=Profile%20views&color=0e75b6&style=flat" alt="nadim0330" /> </p>
 
